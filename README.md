@@ -15,8 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## some *Github* stats for fun
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img
         title="🔥 Get streak stats for your profile at git.io/streak-stats"
@@ -32,7 +31,7 @@
         width="40%"
     />
   </a>
-</p>
+</p> -->
 
 ![Metrics](https://metrics.lecoq.io/edmund-leibert?template=classic&repositories.affiliations=owner%2C%20collaborator%2C%20organization_member&base.indepth=false&base.hireable=false&config.timezone=Europe%2FCopenhagen&config.display=large)
 

@@ -4,7 +4,7 @@
 </h1>
 
 - 🔭 I’m currently working on developing a MIPS emulator in .NET...
-- 🌱 I’m currently learning **ASP.NET Core**, **TypeScript**, and **Snowflake**
+- 🌱 I’m currently learning and improving my skills **ASP.NET Core**, **TypeScript**, **Angular**, **Azure** and **Snowflake**
 - 💬 Ask me about Data Engineering, .NET, TypeScript, Python
 - 👨🏽‍💻 I play in `.cs`, `.ts`, `.js`, `.jsx`, `.css`, `.scss`, `.svg` every day
 - ♟ Fun fact I play chess, even though I'm pretty bad at it 😅

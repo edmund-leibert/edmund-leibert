@@ -9,7 +9,6 @@
 - 💬 Ask me about  `Data Engineering` with Python, .NET, TypeScript, Azure, AWS, or anything else you prefer!
 - 👨🏽‍💻 I play in `.py`, `.ts`, `.js`, `.jsx`, `.css`, `.scss`, `.svg` every day
 - ♟ Fun fact I play chess, even though I'm pretty bad at it 😅
-- 📫 How to reach me: ...
 
 <!-- <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">

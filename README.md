@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></img>
 </h1>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on developing a MIPS emulator in .NET...
 - 🌱 I’m currently learning **ASP.NET Core**, **TypeScript**, and **Snowflake**
 - 💬 Ask me about Data Engineering, .NET, TypeScript, Python
 - 👨🏽‍💻 I play in `.cs`, `.ts`, `.js`, `.jsx`, `.css`, `.scss`, `.svg` every day
